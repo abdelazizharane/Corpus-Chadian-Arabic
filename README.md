@@ -1,8 +1,8 @@
-# 📚 Corpus-Chadian-Arabic
+# 📚 Corpus-Chadian-Arabic 
 
 Bienvenue dans ce projet collaboratif consacré à la constitution d’un corpus linguistique pour **la langue arabe tchadienne** (_shu_). L’objectif principal de ce repository est de rassembler, organiser et analyser des données linguistiques afin de préserver et de valoriser cette langue locale.  
 Il est mené au sein de la communauté **[Chad AI Network](https://github.com/Chad-AI-Network)**. 
-## 🌍 Objectif du projet  
+## 🎯 Objectif du projet  
 Ce projet ne se limite pas uniquement à l’arabe tchadien. Nous commençons avec cette langue locale pour poser les bases d’une méthodologie robuste et efficace. Une fois le travail avancé ou terminé, nous prévoyons d’étendre nos efforts à d’autres langues locales importantes comme :  
 - **Ngambaye**,  
 - **Moundang**,  
