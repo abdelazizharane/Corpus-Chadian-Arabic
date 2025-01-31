@@ -1,9 +1,9 @@
-# 📚 Corpus-Chadian-Arabic 
+# 📚 Corpus of Chadian languages | Corpus des langues tchadiennes
 
-Bienvenue dans ce projet collaboratif consacré à la constitution d’un corpus linguistique pour **la langue arabe tchadienne** (_shu_). L’objectif principal de ce repository est de rassembler, organiser et analyser des données linguistiques afin de préserver et de valoriser cette langue locale.  
+Bienvenue dans ce projet collaboratif consacré à la constitution à priori d’un corpus linguistique pour **la langue arabe tchadienne** (_shu_). L’objectif principal de ce repository est de rassembler, organiser et analyser des données linguistiques afin de préserver et de valoriser nos langues locales.  
 Il est mené au sein de la communauté **[Chad AI Network](https://github.com/Chad-AI-Network)**. 
 ## 🎯 Objectif du projet  
-Ce projet ne se limite pas uniquement à l’arabe tchadien. Nous commençons avec cette langue locale pour poser les bases d’une méthodologie robuste et efficace. Une fois le travail avancé ou terminé, nous prévoyons d’étendre nos efforts à d’autres langues locales importantes comme :  
+Ce projet ne se limite pas uniquement à l’_arabe tchadien_. Nous commençons avec cette langue locale pour poser les bases d’une méthodologie robuste et efficace. Une fois le travail avancé ou terminé, nous prévoyons d’étendre nos efforts à d’autres langues locales importantes comme :  
 - **Ngambaye**,  
 - **Moundang**,  
 - **Kanembou**,  
@@ -22,6 +22,6 @@ Nous invitons à :
 - Partager des idées pour enrichir le corpus linguistique.  
 - Collaborer sur des outils ou des techniques d’analyse des langues locales.  
 
-Ce projet est ouvert à tous. Que vous soyez chercheur, linguiste, ou simplement passionné par les langues locales, votre contribution est la bienvenue.  
+Ce projet est ouvert à tous. Que vous soyez chercheur, linguiste, ingénieurs en IA, data, ML, NLP ou en logiciel, étudiants ou simplement passionné par les langues locales, votre contribution est la bienvenue.  
 
 N’hésitez pas à interagir, poser des questions et partager vos idées dans l’onglet **[Discussions](https://github.com/abdelazizharane/Corpus-Chadian-Arabic/discussions)**.
