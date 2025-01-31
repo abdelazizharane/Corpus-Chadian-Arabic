@@ -1,7 +1,9 @@
 # 📚 Corpus of Chadian languages | Corpus des langues tchadiennes
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 [![Issues](https://img.shields.io/github/issues/abdelazizharane/Corpus-Chadian-Languages)](https://github.com/abdelazizharane/Corpus-Chadian-Languages/issues)
 [![Downloads](https://img.shields.io/github/downloads/abdelazizharane/Corpus-Chadian-Languages/total)](https://github.com/abdelazizharan,e/Corpus-Chadian-Languages/releases)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/ChadAI-Network/Corpus-Chadian-Languages/releases)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/abdelazizharane)
 
 
