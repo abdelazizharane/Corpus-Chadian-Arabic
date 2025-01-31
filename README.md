@@ -1,4 +1,10 @@
 # 📚 Corpus of Chadian languages | Corpus des langues tchadiennes
+[![Issues](https://img.shields.io/github/issues/abdelazizharane/Corpus-Chadian-Languages)](https://github.com/abdelazizharane/Corpus-Chadian-Languages/issues)
+[![Downloads](https://img.shields.io/github/downloads/abdelazizharane/Corpus-Chadian-Languages/total)](https://github.com/abdelazizharan,e/Corpus-Chadian-Languages/releases)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/abdelazizharane)
+
+
 Bienvenue dans ce projet collaboratif consacré à la constitution à priori d’un corpus linguistique pour **la langue arabe tchadienne** (_shu_). L’objectif principal de ce repository est de rassembler, organiser et analyser des données linguistiques afin de préserver et de valoriser nos langues locales.  
 Il est mené au sein de la communauté **[Chad AI Network](https://github.com/Chad-AI-Network)**. 
 
